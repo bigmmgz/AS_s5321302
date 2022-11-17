@@ -25,5 +25,7 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## References
 [1]Learning Multiple Layers of Features from Tiny Images，Alex Krizhevsky，2009
+
 [2]Ming Liang, Xiaolin Hu; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, pp. 3367-3375
+
 [3]R. L. Galvez, A. A. Bandala, E. P. Dadios, R. R. P. Vicerra and J. M. Z. Maningo, "Object Detection Using Convolutional Neural Networks," TENCON 2018 - 2018 IEEE Region 10 Conference, 2018, pp. 2023-2027, doi: 10.1109/TENCON.2018.8650517.
